@@ -1,0 +1,14 @@
+# CMake build directories
+build/
+cmake-build-*/
+
+# Compiled binaries
+Passwords
+
+# Object files
+*.o
+*.obj
+
+# Other IDE/OS files
+.DS_Store
+.idea/
